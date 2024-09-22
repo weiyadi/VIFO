@@ -1,0 +1,7 @@
+metric: ELBO
+L_train: 5
+L_test: 10
+reg_param: 0.1
+
+prior_var: 0.05
+reg: naive

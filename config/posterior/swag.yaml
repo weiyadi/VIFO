@@ -1,0 +1,11 @@
+loss: 'CE'
+L_test: 10
+
+swag_start: 161
+max_num_models: 20
+no_schedule: False
+
+lr_init: 0.05
+momentum: 0.9
+wd: 0.0001
+swag_lr: 0.01

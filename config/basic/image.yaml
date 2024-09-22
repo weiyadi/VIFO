@@ -1,0 +1,10 @@
+exp_name: epoch500
+
+regression: False
+batch_size: 512
+valid_size: 0.0
+num_workers: 1
+save_interval: 10
+n_epochs: 500
+
+seed: 1

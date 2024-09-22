@@ -1,0 +1,4 @@
+n_particles: 5
+method: 'kde' # or 'sge' or 'ssge'
+prior_var: 5.0
+valid_size: 0.

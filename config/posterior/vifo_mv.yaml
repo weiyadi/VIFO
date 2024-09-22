@@ -1,0 +1,14 @@
+aggregate: mean
+reg_type: mv
+single: true
+L_train: 5
+L_test: 10
+valid_size: 0.
+prior_var: 1.0
+reg_param: 0.1
+reg_param_ood: 0.1
+
+vi:
+  alpha: 0.5
+  beta: 0.01
+  delta: 0.1
